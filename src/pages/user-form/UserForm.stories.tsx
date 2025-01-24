@@ -1,5 +1,5 @@
 import { Meta, StoryFn } from '@storybook/react';
-import UserForm from '../UserForm/UserForm';
+import UserForm from './UserForm';
 import { within, userEvent } from '@storybook/testing-library';
 
 export default {
