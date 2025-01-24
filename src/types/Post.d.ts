@@ -1,10 +1,3 @@
-export interface Post {
-    userId?: number;
-    id: number;
-    title: string;
-    body: string;
-  }
-
 export interface ApiObjectData {
     color?: string;
     capacity?: string | number;
